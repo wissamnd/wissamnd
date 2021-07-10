@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wissamnd
 - 👀 I’m interested in mobile development
-- 🌱 I’m currently learning android development
+- 🌱 I’m currently learning ios development
 - 💞️ I’m looking to collaborate on a flutter project
 - 📫 Reach me by sending an email to wissam62500@gmail.com
 
